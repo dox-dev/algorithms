@@ -20,4 +20,4 @@
 <br/><br/><br/>
 
 # ✦ Algorithms
-[• Primality Test](https://wikipedia.com)
+[• Primality Test](https://github.com/dox-dev/algorithms/tree/main/primality%20test)
